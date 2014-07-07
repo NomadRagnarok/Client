@@ -1,0 +1,4 @@
+ymirforest.rsw#bgm\\90701141.mp3#
+ymirshore.rsw#bgm\\90701141.mp3#
+ymirhut.rsw#bgm\\90701141.mp3#
+prontera.rsw#bgm\\90704141.mp3#
