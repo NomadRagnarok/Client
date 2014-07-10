@@ -1251,8 +1251,8 @@ You will receive 1.5 times more EXP from hunting monsters for the next 30 minute
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
 Regular item drops from monsters will be doubled for the next 30 minutes.#
 Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase this item? %d points will be deducted from your total Vote Points.#
-You do not have enough Vote Points.#
+Do you really want to purchase this item? %d points will be deducted from your total Cash Points.#
+You do not have enough Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
  '%s' item will be deleted from the Inventory in 1 minute.#
@@ -1844,19 +1844,19 @@ Buy#
 Cart is empty.#
 First page#
 Last page#
-Hot#
+New Items#
 Headgears#
+Scrolls#
 Limited#
-Permanent Equipment#
-Rental Equipment#
+Rental#
 Pets#
 Consumables#
 Other#
 Cost#
 Quantity#
 Total#
-Vote Points : %s C#
-Cash Points : %s C#
+Vote Points : %s#
+Cash Points : %s#
 You cannot summon a monster in this area.#
 Exceeded total free cash#
 Content has been saved in [SaveData_ExMacro%d]#
@@ -1991,7 +1991,7 @@ The same file exists already.#
 Record Start#
  is Saved.#
 Weight: %3d / %3d#
-Total: %s C#
+Total: %s#
 [Shuriken] must be equipped.#
 Base Lv. %d#
 Job Lv. %d#
@@ -2518,7 +2518,7 @@ Registration failure. Please try again later.#
 Item has already been registered. Please try again later.#
 Failed to delete the item. Please try again later.#
 %s item has been deleted.#
-Special#
+#
 Sales limited sale item update# 
 Discontinued#
 Quantity update is required #
