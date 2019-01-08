@@ -1,4 +1,3 @@
-1001#Mascot#
 4001#Lucky#
 4002#Vital#
 4003#Hard#
@@ -29,14 +28,14 @@
 4028#Double-forced#
 4029#Wolverine#
 4030#Windy#
-4031#of Ares#
+4031#of Mars#
 4032#of Athena#
 4033#Detoxication#
 4034#Clever#
 4035#Bloody#
 4036#Robust#
 4037#Untouchable#
-4038#of Health#
+4038#Healthy#
 4039#of Aristotle#
 4040#Teleport#
 4041#of Sandman#
@@ -406,6 +405,7 @@
 4405#of Magic Mirror#
 4406#Twinkle#
 4407#of Elimination#
+
 4408#Abyss#
 4409#Panic#
 4410#Madness#
@@ -440,6 +440,7 @@
 4439#of Anathema#
 4440#of Ignoring#
 4441#Arrogant#
+
 4442#of Basis#
 4443#of Underneath#
 4444#of Saharic#
@@ -454,8 +455,9 @@
 
 4454#Alchemy#
 4455#Love#
+4478#말해봐요#
+4479#왜그랬어요#
 
-// - Episode 14.1 Cards - \\
 4456#Spell Master#
 4457#Psychic#
 4458#of Illusion#
@@ -479,17 +481,7 @@
 4476#Entomic#
 4477#Demonic#
 
-4480#Of Halfreload#
-4481#Half Jack Frost#
-4482#Of Half regeneration#
-4483#Half Spiritual#
-4484#Of Half Gemstone#
-4485#Half Abyss#
-4991#Carefree#
-4998#of Valor#
-4999#of Aegis#
-
-//-------New Monster Cards 
+//--- 2011 / 11 / 18 카드 30종 추가
 4505#of Mad Witch#
 4506#of Archer#
 4507#Scaraba#
@@ -520,97 +512,469 @@
 4532#Sprinting#
 4533#Blinding#
 4534#Water Bomb#
-4493#Half High Risk#
-
 
 4545#Punk#
 
 4546#Fucked up#
 
-/ / --- October 2012 _ Hero's Trail
-4556#Power Word#
-4557#Spell of power#
+//--- 2012년10월_영웅의흔적
+4556#Power Ward#
+4557#of Spell Power#
 
-/ / --- 2013 / 02/15 sealed Dark Lord added
+//--- 2013 / 02 / 15 봉인된다크로드 추가
 4488#of Half Doom#
 
-/ / February 2013 _ drank before Memorial
+// 2013년 2월_마신전메모리얼
 4559#Blitz#
 
-/ / January 2013 _4 _ probability model cache
+// 2013년_4월_확률형캐쉬
 4497#Half Storm#
-4998#of Valor#
-4999#of Aegis#
 
-/ / --- 2013 / 22.05 add beubeu sealed Berger
+//--- 2013 / 05 / 22 봉인된베르제브브 추가
 4486#of the Half Big Mouse#
 
-/ / --- June 2013 _ new cards
-4560#of buragi#
-4561#Magic Protection#
-4562#Of Penetration#
-4563#Of hydrochloric acid#
+//--- 2013년6월_신규카드
+4560#of Bragi#
+4561#of Magic Protection#
+4562#Of penetrating#
+4563#Of Hydrochloride#
 4564#Of Gentleman#
 4565#of Grand Cross#
-4566#Of good luck#
-4567#Bard#
+4566#Of lucky#
+4567#of Bard#
 4568#of Gnosis#
-4569#of sources#
-4570#Rapid recovery#
-4571#of bondage#
-4572#Robust#
-4573#Dancer#
-4574#Master Sword#
+4569#of Origin#
+4570#of Fast Recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
 4575#Shortcut#
-4576#Reduce#
+4576#Educe#
 4577#Psychic#
-4578#peer#
+4578#Fear#
 4579#Morning Star#
-4480#Devi of Irish#
+4580#오브 데빌리시#
 4581#Toilet#
-
-//malaya
-4582#Endurance#
-4583#Of poisonous weeds#
-4584#Vampire#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
 4585#Cursed#
-4586#Wind#
+4586#of Wind#
 4587#Slasher#
-4588#Of Powerful#
-4589#Of Reach#
-4590#Of lethargy#
-4591#Of Blood#
-4592#Petrochemical#
-
+4588#of Power#
+4589#of Richness#
+4590#of Helpless#
+4591#of Bloody#
+4592#of Stone Curse#
 4593#of Shooter#
 4594#of Death Blow#
-4595#of acid#
-4596#of Intelligence#
-4597#Water#
-4598#Salt#
-4599#Fire#
-4600#of land#
-4601#Of runaway#
-4602#Berserk#
-4603#Evil spirits#
-4604#of evil spirit#
-4605#Of hunger#
-4606#Of Rancor#
-4607#Librarian#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
 
+//--- 2013년6월_봉인된키엘-D-01
+4480#of Devilish#
+
+//--- 2013년7월_봉인된글룸언더나이트
 4485#Half Abyss#
-4608#Knights#
-4609#Knight#
+
 4610#The cage#
 
-//--- 2013 December
+//--- 2013년9월_봉인된타락한대신관
+4539#Half Arrogant#
+
+//--- 2013년10월_봉인된이프리트
+4487#Half of Inferno#
+
+4608#Knights#
+4609#Knight#
+
+//--- 2013년12월_봉인된터틀제네럴
 4494#Half Blast#
 
-//--- 2014 January
+//--- 2014년1월_봉인된백소진
 4538#Half LifeStream#
 
-//--- 2014 February
+//--- 2014년2월_봉인된파라오
 4489#Half Giraffe#
 
-//--- 2014 March
+//--- 2014년3월_봉인된월야화
 4490#Half Tea#
+
+//--- 2014년4월_봉인된보스이그니젬
+4482#Of Half regeneration#
+
+//--- 2014년5월_봉인된베스퍼
+4503#Half of Vision#
+
+//--- 2014년6월_봉인된드라큐라
+4483#Half Spiritual#
+
+//--- 2014년7월_봉인된스나이퍼
+4491#Half of Squeezing#
+
+// 2014년 7월 시계탑 나메
+4625#Sage#
+4626#Echo#
+4627#Vibration#
+4628#of Invisible Horror#
+4629#Sterile#
+4630#of Timekeeper#
+4631#Volant#
+4632#Current#
+
+// 2015년 1월 16일 에피소드 16.1
+4446#Sharpen#
+4633#Queen Bird#
+4634#Fatal#
+4635#Tight#
+4636#Temporal#
+4637#of Drain#
+4638#Plaid#
+4639#Martial#
+4640#Noetic#
+4641#of Soul Gathering#
+
+// 2015 06 무한의던전
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#
+
+// 2015 08  피라나메
+4652#Punishment#
+4653#Undead Animal#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flame#
+4658#of Sorcery#
+
+4659#Adventurer#
+4660#Of Will#
+4661#Of Strength#
+4662#Trinity#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+
+// 2015 11 12 전사자의무덤
+4671#of Sorcery#
+4672#of Sura#
+4673#of Minstrel#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Genetic#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Aeration Shot#
+4694#Decoy#
+4695#Rain Storm#
+4696#Sound Shock#
+
+
+// 2015년 호러 장난감 던전 카드
+31016#Sorrow#
+31017#Hatred#
+31018#Frustration#
+31019#Chill#
+31020#Wrath#
+31021#Madness#
+31022#Despair#
+31023#Maniac#
+
+//2016 공중요새 카드 3종
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
+
+// EP 15 카드
+27012#Active Protection#
+27013#Balkan#
+27014#Mirage#
+27015#Restore#
+27016#All Scanning#
+27017#Tempur#
+27018#Overclocking#
+27019#Debugging#
+27020#System-Error#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+
+// 2016금요일던전
+27025#Noble#
+
+// 에피소드14.1필드몬스터카드
+27026#Blazing#
+27027#Burning#
+27028#Searing#
+27029#Flame Eater#
+27030#Firebug#
+
+// 2016년 12월 일루전 오브 문라이트
+27081#Moonlight#
+27082#Foxtail#
+27083#Growth#
+27084#Gruesome#
+27085#Delicate#
+27086#Shooter#
+27087#Truth#
+27088#Incite#
+
+// 2017년 1월 일루전 오브 뱀파이어
+27101#Sorcery#
+27102#Pioneer#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+
+// 2017년 2월 일루전 오브 프로즌
+27110#Nimble#
+27111#Cheerful#
+27112#Sturdy#
+27113#Frozen#
+
+// 2017년 4월 브라질리스 카드
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect Collector's#
+27124#Hunter's#
+27125#Aqua Benedict#
+27126#Python#
+
+//2017년 3월 일루전 오브 터틀아일랜드
+27114#Firm#
+27115#Sensible#
+27116#Dual Critical#
+27117#Lethal#
+27118#of Pierce#
+27119#of Turtle Shell#
+
+//Episode 16.2 신규 카드 추가
+27147#Intensive#
+27148#Deft#
+27149#Sniper#
+27150#of High Level#
+27151#Freezing#
+27152#Prompt#
+
+//2017년 7월 악몽의 지터벅
+27106#Musician's#
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug#
+
+//2017년 9월 모스코비아 카드
+27157#of Aqua Wood#
+27158#of Windiness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#
+27162#Soul Steal#
+
+//2017년 9월 영웅의흔적p1카드
+27163#of Abranchia#
+27164#Koya#
+27165#of Avian#
+27166#Frio#
+27167#Glacial#
+27168#of Padre#
+27169#Infante#
+
+//11월 사냥대회
+27196#Heine#
+27197#Lugenburg#
+27198#Wigner#
+27199#Nerius#
+27200#니힐의#
+27201#아그네스의#
+27202#유르겐의#
+27203#스피카의#
+//2018 11월 사냥대회
+27330#크로네커의#
+27331#오브 그란츠 하이네#
+27332#스키아의#
+27333#오브 샤이니 네리우스#
+
+//2018년 1월 영웅의흔적p2,3카드
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+
+//신규카드28종
+27170#of Dust#
+27171#of Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#of Dirty#
+27177#of Marsh#
+27178#of Zero Guard#
+27249#Arhi#
+27179#of Wild Fang#
+27250#Anemos#
+27180#Power Break#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odoric#
+27261#Ju#
+27262#Dwigh#
+27263#Kanavian#
+27264#of Evil Shadow#
+27265#Evil Fanatic#
+
+//일루전 오브 테디베어
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
+
+//대만 봉인된 보스카드
+27209#하프스카라바#
+27210#하프페네트레이션#
+27211#하프사이드라이크#
+27212#하프리플렉트#
+27213#하프브라기의#
+27214#하프마법보호의#
+27215#하프침투의#
+27216#하프염산의#
+27217#하프신사의#
+27218#하프대십자의#
+27219#하프행운의#
+27220#하프소드마스터#
+27221#하프이듀스#
+27222#하프피어#
+27224#하프 오브 데빌리시#
+27225#하프현인의#
+
+4492#half neutral#
+4498#Sealed Manaful#
+4484#Of Half Gemstone#
+4499#Half Bloodlust#
+4500#Sealed Mirror#
+4501#Sealed Protection#
+4502#Sealed Hollgrehenn#
+4504#Sealed Bearer's#
+4481#Half Jack Frost#
+
+//일루전 오브 루안다
+27291#Full Charging#
+27292#of Stalactic#
+27293#Circular#
+27294#of Big Stone#
+27295#of Stone Shooter#
+27296#of Wootan Shooter#
+27297#Wootan Fist#
+27298#of Big Shield#
+
+//2018 에피 17.1 카드
+27304#헬스#
+27305#헬 인페르노#
+27306#파이어 댄스#
+27307#헤비 트립#
+27308#세크리드#
+27309#오브 홀리파워#
+27310#오브 임모탈#
+27311#헤비 너클#
+27312#이블 피어싱#
+27313#파워 피스트#
+27314#동물 사냥꾼#
+27315#동물 마법사냥꾼#
+27316#안티 포이즌#
+27317#내츄럴 피어싱#
+27318#오브 타이거파워#
+27319#포이즌 브레이크#
+27320#인핸스 파이어#
+
+//에다 글래스트
+27329#오브 슈미츠#
+
+//에피소드14.3 모로크카드
+27325#무스펠헤임#
+27326#파멸의#
+27327#사신안쿠#
+27321#마신의#
+27328#타락한 생명의#
+27322#위압자의#
+27323#조율자의#
+27324#브리나라네아#
+
+//일루전오브라비린스 카드
+27338#오브 더블파워#
+27339#고쓰#
+27340#오브 앵그리킬러#
+27334#오브 카오틱#
+27341#오브 워터쉘#
+27335#오브 블랙가드#
+27342#메탈그라운드#
+27336#오브 바이퍼#
+27343#홀리스펠#
+27337#헌팅브리즈#
+
+//어비스 및 노그 3층
+27346#오브 하울링#
+27347#크랙#
+27348#노웨어#
+27349#오브 플레임배리어#
+27350#오브 드래곤스피릿#
+27351#오브 드래곤하트#
+27352#슬럼버#
+27353#오브 데모닉배리어#
+27354#오브 디프레이브#
+27355#디프레이브드#
+27356#오브 프로즌가드#
+27357#오브 더티글러브#
+27358#브레이킹#
+27359#콜드매직#
+27360#파이어매직#
+27361#헤비블레이드#
+27362#오브 퀸스파이더#
+27363#둠드#
