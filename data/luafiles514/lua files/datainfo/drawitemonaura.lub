@@ -10,12 +10,14 @@ ItemsToDrawOnAura = {
 	ACCESSORY_IDs.ACCESSORY_C_FallenAngelWingEar,
 	ACCESSORY_IDs.ACCESSORY_Subject_Aura_Red
 }
+
 function GetItemSpriteNumberToDrawOnAura(Index)
 	if ItemsToDrawOnAura[Index] == nil then
 		return 0
 	end
 	return ItemsToDrawOnAura[Index]
 end
+
 function GetItemListSizeToDrawOnAura()
 	if ItemsToDrawOnAura == nil then
 		return 0
